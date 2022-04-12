@@ -11,8 +11,6 @@ public class Aula02TiposPrimitivos {
 		
 		long numeroGrande2 = 1000L;
 		
-		long numeroGrande3 = 1000L;
-		
 		double salarioDouble = 2000.00D;
 		
 		float salarioFloat = 2500.0F; 
