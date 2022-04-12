@@ -7,7 +7,7 @@ public class Aula02TiposPrimitivos {
 		int idade = (int) 100000000000L;
 		
 		
-		long numeroGrande = 10000L;
+		long numeroGrande = 1000L;
 		
 		double salarioDouble = 2000.00D;
 		
